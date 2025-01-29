@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Calculator colors -->
+    <color name="display_background">#1E1E1E</color>
+    <color name="operator_background">#FF9800</color>
+    <color name="number_background">#2D2D2D</color>
+    <color name="special_background">#424242</color>
+    <color name="text_color">#FFFFFF</color>
+</resources>
